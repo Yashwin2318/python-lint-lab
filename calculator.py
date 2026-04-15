@@ -1,7 +1,7 @@
 """
 Simple calculator module
 """
-
+x = 10  # unused variable
 def add(a, b):
     """Return sum of two numbers"""
     return a + b
